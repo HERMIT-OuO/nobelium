@@ -16,7 +16,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://imu-netgroup-doc.vercel.app/', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://imu-netgroup-doc.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: '',
   seo: {
     keywords: ['Netgroup', 'DOC', 'IMU'],
